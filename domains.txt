@@ -148,6 +148,7 @@ a.wb.ru
 aa.mail.ru
 abr.ru
 aclub.ru
+adfox.ru
 adm.digital.gov.ru
 adm.mp.rzd.ru
 admetrica.ru
@@ -483,6 +484,7 @@ esia.gosuslugi.ru
 et.mail.ru
 evotor.ru
 ewisdom.us.kg
+exist.ru
 expert.vk.ru
 external-api.mediabilling.kinopoisk.ru
 external-api.plus.kinopoisk.ru
@@ -1046,6 +1048,7 @@ rl.mail.ru
 rm.mail.ru
 rncoluminis.ru
 rnd.ru
+robokassa.ru
 rocketozon.by
 rosagroleasing.ru
 rosreestr.gov.ru
@@ -1390,6 +1393,8 @@ taxitax.org
 taxsee.com
 tbank.ru
 tbank-online.com
+tcsbank.ru
+tcscloud.ru
 team.mail.ru
 team.rzd.ru
 tech.mail.ru
@@ -1413,7 +1418,9 @@ tile4.maps.2gis.com
 tiles.maps.mail.ru
 timeweb.cloud
 timeweb.com
+tinkoff-api.ru
 tinkoff.ru
+tinkoffbank.ru
 tips.tips
 tmgame.mail.ru
 tnt-online.ru
@@ -1485,6 +1492,7 @@ vk.mail.ru
 vk.me
 vk.ru
 vk.team
+vk-analytics.ru
 vk-apps.com
 vk-apps.ru
 vkcache.com

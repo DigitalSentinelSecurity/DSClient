@@ -155,6 +155,8 @@ admetrica.ru
 admin.cs7777.vk.ru
 admin.tau.vk.ru
 adygeya.ru
+aero.alrosa.ru
+aeroflot.com
 aeroflot.ru
 afisha.mail.ru
 agent.mail.ru
@@ -178,6 +180,7 @@ alfaprivate.com
 alfa-usa.com
 alformacap.com
 alformacapital.com
+alrosa.aero
 algoritmika.org
 aliexpress.ru
 alpha3.minigames.mail.ru
@@ -209,6 +212,7 @@ api.s3.yandex.net
 api.tau.vk.ru
 api.uxfeedback.yandex.net
 api.vk.ru
+api-warp.max.ru
 api-maps.yandex.ru
 apiok.ru
 apps.research.mail.ru
@@ -223,6 +227,7 @@ attachmy.com
 auchan.ru
 authdl.mail.ru
 auth-nsdi.ru
+auto.gosuslugi.ru
 auto.mail.ru
 auto.ru
 autobahn.db.com
@@ -240,7 +245,11 @@ avtoto.ru
 aw.mail.ru
 away.cs7777.vk.ru
 away.tau.vk.ru
+azimuth.aero
+azurair.ru
 azt.mail.ru
+b2bapi.max.ru
+b2bsupportbot.max.ru
 b.auth-nsdi.ru
 b.res-nsdi.ru
 baltbank.ru
@@ -266,6 +275,7 @@ berizaryad.ru
 beta.mail.ru
 beta-bank.com
 bfa.ru
+bid.max.ru
 bfds.sberbank.ru
 bir.ru
 bitrix.info
@@ -293,9 +303,11 @@ browser.yandex.ru
 bryansk.ru
 burgerking.ru
 buryatia.ru
+business.max.ru
 business.vk.ru
 cabconnect.org
 calendar.mail.ru
+candidate.gosuslugi.ru
 capsula.mail.ru
 cargo.rzd.ru
 cars.mail.ru
@@ -365,6 +377,7 @@ collections.yandex.ru
 comba.mail.ru
 combu.mail.ru
 commba.mail.ru
+commission.gosuslugi.ru
 commerzbank.ru
 company.rzd.ru
 compute.mail.ru
@@ -391,6 +404,7 @@ ctlog.mail.ru
 ctlog2023.mail.ru
 ctlog2024.mail.ru
 cto.mail.ru
+culture.gosuslugi.ru
 cups.mail.ru
 cups.online
 cybersport.ru
@@ -407,6 +421,7 @@ dbankcloud.ru
 dbo-dengi.online
 delimobil.ru
 dellin.ru
+deg.gosuslugi.ru
 deti.mail.ru
 detmir.ru
 dev.cs7777.vk.ru
@@ -429,6 +444,7 @@ dn.mail.ru
 dnd.wb.ru
 dnevnik.ru
 dns-shop.ru
+do.gosuslugi.ru
 dobro.mail.ru
 doc.mail.ru
 dodois.io
@@ -450,6 +466,7 @@ driveawaytaxi.org
 drom.ru
 drweb.ru
 ds.mail.ru
+ds-plugin.gosuslugi.ru
 duck.mail.ru
 duma.gov.ru
 dzen.ru
@@ -469,10 +486,12 @@ ekburg.ru
 ekmp-a-51.rzd.ru
 elama.ru
 eldorado.ru
+elections.gosuslugi.ru
 emex.ru
 emias.info
 emias.mos.ru
 enterprise.api-maps.yandex.ru
+epgu.gosuslugi.ru
 epicevents.gg
 epp.genproc.gov.ru
 ertelecom.ru
@@ -488,6 +507,8 @@ exist.ru
 expert.vk.ru
 external-api.mediabilling.kinopoisk.ru
 external-api.plus.kinopoisk.ru
+ext-api.max.ru
+ext-bots.max.ru
 fairplay-proxy.ott.yandex.ru
 fastvps.ru
 favicon.yandex.com
@@ -502,12 +523,18 @@ finuslugi.ru
 five.predict.mail.ru
 fivepost.ru
 fix-price.com
+flyaurora.ru
+flypobeda.ru
+flyredwings.com
+flyrossiya.ru
+flysmartavia.com
 forshtadt.ru
 foto.mail.ru
 freestylediabetes.ru
 friday.ru
 frontend.vh.yandex.ru
 fssp.gov.ru
+fssp.gosuslugi.ru
 fw.wb.ru
 games.mail.ru
 games-bamboo.mail.ru
@@ -522,6 +549,7 @@ gb.ru
 gemotest.ru
 genesis.mail.ru
 geo-apart.predict.mail.ru
+geps.gosuslugi.ru
 gibdd.mail.ru
 gismeteo.ru
 go.mail.ru
@@ -650,7 +678,9 @@ ivi.ru
 ivi.tv
 iz.ru
 izbirkom.ru
+izhavia.su
 izhevsk.ru
+iraero.ru
 jam.api.2gis.com
 jamal.ru
 jar.ru
@@ -688,6 +718,7 @@ kino.mail.ru
 kinopoisk.ru
 kinopoisk-ru.clstorage.net
 kirov.ru
+knd.gosuslugi.ru
 knd.gov.ru
 knights.mail.ru
 knightspeak.com
@@ -804,6 +835,7 @@ meteum.ai
 mgfoms.ru
 microapps.kinopoisk.ru
 mil.ru
+miniapps.max.ru
 miniapp.internal.myteam.mail.ru
 minigames.mail.ru
 mirabilis.com
@@ -819,6 +851,7 @@ mking.mail.ru
 mlbootcamp.ru
 mm.ru
 mnogolososya.ru
+mobiz.gosuslugi.ru
 mobfarm.mail.ru
 mobileapp.russianpost.ru
 mobileicq.com
@@ -884,6 +917,8 @@ news.mail.ru
 newyear.mail.ru
 newyear2018.mail.ru
 nn.ru
+nordstar.ru
+nordwindairlines.ru
 nonstandard.sales.mail.ru
 noosferabank.ru
 notes.mail.ru
@@ -919,6 +954,7 @@ oneme.ru
 online.metro-cc.ru
 online.sberbank.ru
 open.ru
+oplata.gosuslugi.ru
 operator.mail.ru
 orb.ru
 ord.ozon.ru
@@ -966,14 +1002,19 @@ panzar.mail.ru
 park.mail.ru
 partners.gosuslugi.ru
 partners.lemanapro.ru
+party.gosuslugi.ru
+pay.gosuslugi.ru
 pay.mail.ru
 pay.ozon.ru
+payment.gosuslugi.ru
 payment-widget.kinopoisk.ru
 payment-widget.plus.kinopoisk.ru
 payment-widget-smarttv.plus.kinopoisk.ru
 penza.ru
 perekrestok.ru
 perm.ru
+pegasfly.com
+pegasfly.ru
 pernatsk.mail.ru
 pervye.ru
 pesc.ru
@@ -982,6 +1023,7 @@ pets.mail.ru
 pic.rutubelist.ru
 pikabu.ru
 pixonic.com
+platform-api.max.ru
 pl-res.online.sberbank.ru
 pms.mail.ru
 pnp.ru
@@ -1053,6 +1095,8 @@ rocketozon.by
 rosagroleasing.ru
 rosreestr.gov.ru
 rosseti.ru
+rossiya-airlines.com
+rossiya-airlines.ru
 rostaxi.org
 rostelecom.ru
 rs.mail.ru
@@ -1064,6 +1108,7 @@ rt.ru
 rtbcdn.ru
 ru.ccb.com
 ruhub.tv
+rusline.aero
 russiacalling.com
 russian.rt.com
 russiandesigncup.ru
@@ -1085,6 +1130,8 @@ s3.media-mobs.mail.ru
 s3.t2.ru
 s3.yandex.net
 s7.ru
+s7airlines.com
+s7airlines.ru
 sakhalin.ru
 sales.mail.ru
 samara.ru
@@ -1118,7 +1165,9 @@ seller.ozon.ru
 service.amigo.mail.ru
 sev.ru
 sevastopol.ru
+severstal-avia.ru
 sfd.gosuslugi.ru
+sferum.max.ru
 sferum.ru
 sferum-dev.ru
 shadowbound.mail.ru
@@ -1132,6 +1181,7 @@ skillbox.ru
 skillfactory.ru
 slavbank.ru
 smailru.net
+smartavia.ru
 smbcr-bank.ru
 smolensk.ru
 smotrim.ru
@@ -1170,6 +1220,7 @@ stand.pw.mail.ru
 start.ru
 startrek.mail.ru
 static.dl.mail.ru
+static.gosuslugi.ru
 static.lemanapro.ru
 static.operator.mail.ru
 static.rutube.ru
@@ -1468,12 +1519,14 @@ ui.tau.vk.ru
 ulan-ude.ru
 uma.media
 umschool.net
+uralairlines.ru
 usedesk.ru
 userapi.com
 userapi.ru
 user-geo-data.wildberries.ru
 uslugi.yandex.ru
 utair.ru
+uvtaero.ru
 uxfeedback.ru
 uxfeedback.yandex.ru
 uxfeedback-cdn.s3.yandex.net
@@ -1550,6 +1603,7 @@ volgograd.ru
 vologda.ru
 voronezh.ru
 voter.gosuslugi.ru
+voxel.gosuslugi.ru
 vprok.ru
 vrn.ru
 vseinstrumenti.ru
@@ -1599,6 +1653,7 @@ welcome.rzd.ru
 westernunion.ru
 wf.mail.ru
 whatsnew.mail.ru
+widget.gosuslugi.ru
 wh-cpg.money.mail.ru
 whoosh.bike
 widevine-proxy.ott.yandex.ru
@@ -1610,6 +1665,8 @@ wok.mail.ru
 wos.mail.ru
 ws.seller.ozon.ru
 ws-api.oneme.ru
+www.gosuslugi.ru
+www.max.ru
 x5.ru
 x5.tech
 x5club.ru
@@ -1650,7 +1707,9 @@ yabs.yandex.ru
 yadro.ru
 yads.tech
 yaklass.ru
+yakutia.aero
 yakutia.ru
+yamal.aero
 yamal.ru
 yandex
 yandex.aero

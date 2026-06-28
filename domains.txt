@@ -215,8 +215,10 @@ api.vk.ru
 api-warp.max.ru
 api-maps.yandex.ru
 apiok.ru
+api.oneme.ru
 apps.research.mail.ru
 appsmail.ru
+apptracer.ru
 arkhangelsk.ru
 armgs.team
 asia-pay.ru
@@ -312,6 +314,7 @@ capsula.mail.ru
 cargo.rzd.ru
 cars.mail.ru
 catalog.api.2gis.com
+career.ru
 cbg.ru
 cbr.ru
 cdek.ru
@@ -469,6 +472,7 @@ ds.mail.ru
 ds-plugin.gosuslugi.ru
 duck.mail.ru
 duma.gov.ru
+dreamjob.ru
 dzen.ru
 dzeninfra.ru
 dzvr.ru
@@ -479,6 +483,7 @@ eda.yandex.ru
 edadeal.io
 edadeal.ru
 edu.ru
+educat.ru
 education.mail.ru
 egress.yandex.net
 eh.vk.com
@@ -553,6 +558,7 @@ geps.gosuslugi.ru
 gibdd.mail.ru
 gismeteo.ru
 go.mail.ru
+go.max.ru
 gogettaxi.org
 goicq.org
 goldapple.ru
@@ -584,6 +590,8 @@ help.max.ru
 help.mcs.mail.ru
 hematonix.ru
 hh.ru
+hhcdn.ru
+hhid.ru
 hi-tech.mail.ru
 horo.mail.ru
 hrc.tbank.ru
@@ -591,6 +599,7 @@ hrtek.ru
 hs.mail.ru
 http-check-headers.yandex.ru
 i.max.ru
+i.oneme.ru
 i0.photo.2gis.com
 i1.photo.2gis.com
 i2.photo.2gis.com
@@ -689,6 +698,7 @@ jitsi.wb.ru
 jivo.ru
 jivochat.com
 jivosite.com
+joblist.ru
 journey.mail.ru
 jpmorgan.ru
 juggermobile.mail.ru
@@ -769,6 +779,7 @@ link.mp.rzd.ru
 lipetsk.ru
 list.ru
 live.ok.ru
+livehh.ru
 lk.gosuslugi.ru
 lmru.tech
 loa.mail.ru
@@ -1023,7 +1034,9 @@ pets.mail.ru
 pic.rutubelist.ru
 pikabu.ru
 pixonic.com
+planetahr.ru
 platform-api.max.ru
+platform-api2.max.ru
 pl-res.online.sberbank.ru
 pms.mail.ru
 pnp.ru
@@ -1156,6 +1169,7 @@ sbermobile.ru
 sbis.ru
 sbpgpb.ru
 sdk.money.mail.ru
+sdk-api.apptracer.ru
 secure.rzd.ru
 secure-cloud.rzd.ru
 securepay.ozon.ru
@@ -1429,6 +1443,7 @@ sync.browser.yandex.net
 sys.refocus.ru
 t2.ru
 tagbank.ru
+talantix.ru
 tambov.ru
 tamtam.chat
 tamtam.ok.ru
@@ -1785,6 +1800,7 @@ youla.io
 youla.ru
 youla-web-static.mrgcdn.ru
 yuzhno-sakhalinsk.ru
+zarplata.ru
 zdrav10.ru
 zen.yandex.com
 zen.yandex.net
